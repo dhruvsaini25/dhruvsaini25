@@ -1,7 +1,7 @@
 # Hi there, I'm Dhruv👋
 ### Welcome to my GitHub profile!
 
-- 🧠 3rd-year student majoring in Information Technology.<br/>
+- 🧠 4th-year student majoring in Information Technology.<br/>
 - 🌱 Learning Data Structures & Algorithms and working on projects in Web Dev with React.js.<br/>
 - 🛠️ Proficient in C, C++, JavaScript, Python, and familiar with SQL databases.<br/>
 - 🤝 Always open to connecting over code, web dev, or solving algorithmic problems.<br/>
